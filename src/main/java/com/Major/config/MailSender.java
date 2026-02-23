@@ -5,8 +5,8 @@ import jakarta.mail.*;
 import jakarta.mail.internet.*;
 
 public class MailSender {
-    private static final String admin = "supriyaupreti5390@gmail.com";  // Change this
-    private static final String password = "tyol dfvy jeij ruhm";    // Gmail App Password
+    private static final String admin = "";  // Change this
+    private static final String password = "";    // Gmail App Password
 
     public static void sendEmail(String to, String subject, String body) throws MessagingException {
         Properties props = new Properties();
