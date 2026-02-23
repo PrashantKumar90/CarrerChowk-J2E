@@ -1,0 +1,29 @@
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Build folders
+build/
+out/
+target/
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Server
+apache-tomcat*/
+temp/
+work/
